@@ -43,6 +43,36 @@
     name: "Scyther",
     photo: "http://img2.wikia.nocookie.net/__cb20140127004732/pokemon/images/d/da/123Scyther_AG_anime.png",
     scores: [3, 4, 3, 2, 3, 5, 1, 4, 4, 1],
+},
+{
+    name: "Weedle",
+    photo: "https://vignette.wikia.nocookie.net/pokemon-revolution-online/images/d/df/013Weedle.png/revision/latest?cb=20160127233648",
+    scores: [5, 5, 2, 2, 1, 1, 1, 1, 3, 3],
+},
+{
+    name: "Onix",
+    photo: "https://in.portal-pokemon.com/play/resources/pokedex/img/pm/134d26303c22ac0e0173bdf5121a3a3aae10e36c.png",
+    scores: [1, 1, 4, 2, 3, 3, 2, 5, 1, 5],
+},
+{
+    name: "Pidgeot",
+    photo: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    scores: [4, 1, 5, 4, 2, 1, 3, 2, 3, 1],
+},
+{
+    name: "Jigglypuff",
+    photo: "https://pokeweakness.com/images/1892299-039jigglypuff.png",
+    scores: [5, 4, 2, 3, 1, 4, 2, 5, 1, 3],
+},
+{
+    name: "Mew",
+    photo: "http://upli.st/uploads/item_image/6453f8a-600px-151Mew.png",
+    scores: [5, 1, 5, 1, 5, 1, 5, 1, 5, 1],
+},
+{
+    name: "Entei",
+    photo: "https://banner2.kisspng.com/20180621/vkh/kisspng-youtube-pokmon-ranger-entei-unown-5b2bcd2beb1905.943903611529597227963.jpg",
+    scores: [3, 1, 3, 1, 3, 1, 5, 5, 5, 3],
 }
 ];
 
