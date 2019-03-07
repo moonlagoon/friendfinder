@@ -32,3 +32,15 @@ body {
 .container .chosen-select {
     background-color: rgb(255, 252, 212);
 }
+
+.caption {
+    font-family: 'Bungee', cursive;
+    text-align: center;
+    align-content: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.imagepreveiw {
+    align-content: center;
+}

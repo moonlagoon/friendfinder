@@ -33,6 +33,16 @@
     name: "Glaceon",
     photo: "https://vignette.wikia.nocookie.net/sonicpokemon/images/f/fa/Glaceon.png/revision/latest?cb=20130104053552",
     scores: [3, 4, 3, 2, 3, 5, 1, 4, 4, 1],
+},
+{
+    name: "Ditto",
+    photo: "https://cdn.bulbagarden.net/upload/thumb/3/36/132Ditto.png/250px-132Ditto.png",
+    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+},
+{
+    name: "Scyther",
+    photo: "http://img2.wikia.nocookie.net/__cb20140127004732/pokemon/images/d/da/123Scyther_AG_anime.png",
+    scores: [3, 4, 3, 2, 3, 5, 1, 4, 4, 1],
 }
 ];
 
